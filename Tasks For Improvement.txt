@@ -1,7 +1,0 @@
-1. Remove Trailing Whitespace After Colon
-2. Add "EDIT" For Edit Task, use regex sub
-3. Add "DELETE" To Delete a Task, regex remove 
-or regex sub w/ whitespace
-
-4. Possibly look into "Display" Function to reduce recycled
-code
